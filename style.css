@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+     /* border:2px solid red;  */
+}
+
+body {
+    font-family: arial, sans-serif;
+    background-color: #252525;
+  }
+
+.header {
+    height: auto;
+    text-align: center;
+    background: #4fd3b8;
+    color: #EDF5E1;
+}  
+
+.header > #top_text{
+    font-family: 'Cairo', sans-serif;
+    font-size: 7vw;
+    padding-top: 1vw;
+}  
+
+.header > #bottom_text {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    padding-top: 1vw;
+    padding-bottom: 3vw;
+}  
+
+
+
+
